@@ -51,9 +51,7 @@ LUFFY/
 
 - **API Integration**: OpenAI and Gemini API implementations need completion
 - **Reward System**: Parallel processing and validation for reward computation  
-- **FSDP Training**: Model loading and distributed training setup
-- **Data Processing**: Batch dimension operations and tensor reshaping
-### 📑 Complete TODO List
+- **FSDP Training**: Model loading and distributed training setup### ð Complete TODO List
 
 - [ ] **luffy/deepscaler/utils.py:45** - Add logging for API calls and errors
 - [ ] **luffy/deepscaler/utils.py:46** - Support batch processing for multiple prompts
@@ -73,11 +71,4 @@ LUFFY/
 - [ ] **luffy/verl/verl/protocol.py:169** - (zhangchi.usc1992) add consistency check
 - [ ] **luffy/verl/verl/protocol.py:265** - we can actually lift this restriction if needed
 - [ ] **luffy/verl/verl/protocol.py:351** - (zhangchi.usc1992) whether to copy
-
-## 🤝 Contributing
-
-1. Pick a TODO item from the list above
-2. Implement the functionality
-3. Test your implementation
-4. Update this README when TODOs are completed
 
